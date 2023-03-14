@@ -64,5 +64,8 @@ Here you can add, delete, manage, convert **Customers**.
 2. add a user account : Contact name, Email address.
 3. create username and password for plesk login, domains and service plan, ip address, ftp and ssh credentials.
 
+
+- ![Customers :](https://raw.githubusercontent.com/RivenOnlyDev/Plesk/main/Pictures/Customers.png)
+
 ***
 ### Extensions, Monitoring, Resellers, Dns, Mail

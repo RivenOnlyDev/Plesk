@@ -1,2 +1,2 @@
 # Plesk
-Plesk websites managements
+Plesk is a websites managements tool
